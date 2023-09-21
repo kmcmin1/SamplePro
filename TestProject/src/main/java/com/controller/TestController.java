@@ -27,6 +27,7 @@ public class TestController extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("팀장 실행됨");
+		System.out.println("hotfix 브랜치 내용변경");
 	}
 
 	/**
